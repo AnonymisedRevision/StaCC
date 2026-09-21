@@ -49,7 +49,7 @@ Three pools of 40 members per benchmark, each member drawn independently from a
 fixed hyperparameter range and kept if it clears 1.25 times chance on source
 validation. No target data enters pool construction.
 
-**Trained Camelyon17 pools (model weights): [LINK TO BE ADDED]**
+**Trained Camelyon17 pools (model weights): https://drive.google.com/file/d/1m90QUQvJZp1WeiHglaBNP6VJjzj_FKmv/view?usp=sharing**
 
 Unpack them into `pools/` and skip to step 3. Each pool directory holds the
 members (`models/`), the exact invocation (`config.json`) and every member's
